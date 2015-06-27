@@ -4067,6 +4067,7 @@ p > video {
 		max-width: 413px;
 		position: relative;
 		width: 29.4118%;
+        background-color: rgba(3, 169, 244, 0.6);
 	}
 
 	.secondary {
